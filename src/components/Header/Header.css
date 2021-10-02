@@ -1,0 +1,25 @@
+.header{
+    text-align: center;
+}
+.header img{
+    height: 80px;
+    margin-bottom: 10px;
+}
+.menu{
+    background-color: black;
+    text-align: left;
+    padding-left: 50px;
+    line-height: 40px;
+}
+.menu a{
+    text-decoration: none;
+    margin-right: 20px;
+    color: white;
+    font-size: 18px ;
+    
+    padding: 8px 0;
+}
+.menu a:hover{
+    background-color: lightgray;
+    color: black;
+}

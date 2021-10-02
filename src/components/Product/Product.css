@@ -1,0 +1,25 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin-right: 5px;
+}
+.description{
+    margin-left: 10px;
+    padding-bottom: 25px;
+}
+.title{
+    color: blue;
+    font-weight: 400;
+}
+.general-btn{
+    margin-top: 10px;
+    width: 180px;
+    background-color: rgb(255, 195, 0);
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    cursor: pointer;
+}
+.icon-color{
+    color: gold;
+}
